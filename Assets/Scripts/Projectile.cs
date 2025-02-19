@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
+
+//GITHUB CHECK
+
 public class Projectile : MonoBehaviour
 {
     [SerializeField] private float speed;
