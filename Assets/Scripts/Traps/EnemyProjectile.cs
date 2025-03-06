@@ -7,6 +7,7 @@ public class EnemyProjectile : EnemyDamage //Will damage the player every time t
     [SerializeField] private float speed;
     [SerializeField] private float resetTime;
 
+
     private float lifetime;
     public void ActivateProjectile()
     {
